@@ -23,9 +23,6 @@ CREATE TABLE `tbl_user` (
   PRIMARY KEY (`user_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 ```
-
-4. Follow the tutorial avoiding the similar steps above: https://www.roytuts.com/python-web-application-crud-example-using-flask-and-mysql/
-
 5. Run the code to start the server:
 ```
 python main.py
